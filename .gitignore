@@ -1,0 +1,30 @@
+# Dependencies
+node_modules/
+
+# Build output
+docs/.vitepress/dist/
+dist/
+
+# VitePress cache
+docs/.vitepress/cache/
+.vitepress/cache/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.idea/
+.vscode/
+*.local
+
+# Env / secrets (never commit)
+.env
+.env.*
+!.env.example

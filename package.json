@@ -1,0 +1,25 @@
+{
+  "name": "redacted-skies",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Redacted Skies — a fun, conspiracy-filled static site about aliens being real.",
+  "scripts": {
+    "dev": "vitepress dev docs",
+    "build": "vitepress build docs",
+    "preview": "vitepress preview docs"
+  },
+  "devDependencies": {
+    "vitepress": "^1.6.4",
+    "vue": "^3.5.13"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hallpoint-Systems-LLC/redacted-skies.git"
+  },
+  "homepage": "https://github.com/Hallpoint-Systems-LLC/redacted-skies#readme",
+  "license": "MIT"
+}
