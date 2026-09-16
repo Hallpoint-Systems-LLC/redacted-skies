@@ -2,6 +2,8 @@
 
 **The skies aren't empty.**
 
+**Live:** https://witty-desert-0e0aa7810.5.azurestaticapps.net/
+
 Redacted Skies is a fun, conspiracy-flavored static site about aliens being real — told as declassified dossiers, sighting case files, crash-site speculation, and a disclosure timeline. Tone is intriguing and tongue-in-cheek, never mean-spirited.
 
 Built with [VitePress](https://vitepress.dev) (Vue 3) and ready for [Azure Static Web Apps](https://learn.microsoft.com/azure/static-web-apps/).
@@ -50,7 +52,7 @@ That folder is what Azure Static Web Apps (and any static host) should serve. It
 │   ├── disclosure-timeline.md
 │   └── about.md
 ├── .github/workflows/
-│   └── azure-static-web-apps.yml
+│   └── azure-static-web-apps-witty-desert-0e0aa7810.yml
 ├── package.json
 └── README.md
 ```
@@ -59,8 +61,8 @@ That folder is what Azure Static Web Apps (and any static host) should serve. It
 
 1. **Create a Static Web App** in the Azure Portal (or via CLI).
 2. Connect this GitHub repository (or deploy with a deployment token).
-3. Add a repository secret named **`AZURE_STATIC_WEB_APPS_API_TOKEN`** with the deployment token from the Azure SWA resource (Manage deployment token).
-4. Push (or merge) to `main`. The workflow in `.github/workflows/azure-static-web-apps.yml` builds and deploys.
+3. Add a repository secret named **`AZURE_STATIC_WEB_APPS_API_TOKEN_WITTY_DESERT_0E0AA7810`** with the deployment token from the Azure SWA resource (Manage deployment token).
+4. Push (or merge) to `main`. The workflow in `.github/workflows/azure-static-web-apps-witty-desert-0e0aa7810.yml` builds and deploys.
 
 ### Workflow path settings (must match this repo)
 
@@ -71,7 +73,7 @@ That folder is what Azure Static Web Apps (and any static host) should serve. It
 | `output_location` | `docs/.vitepress/dist` |
 | `app_build_command` | `npm run build` |
 
-Triggers: push to `main`, and pull requests targeting `main` (including a close job to tear down PR preview environments).
+Triggers: push to `main` only (no pull-request preview deploys).
 
 `docs/public/staticwebapp.config.json` is copied into the build output. It sets a 404 navigation fallback only — **not** an SPA rewrite to `index.html`, so VitePress multi-page routes keep working.
 
