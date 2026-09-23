@@ -15,8 +15,8 @@ hero:
       text: Browse Sightings
       link: /sightings/
     - theme: alt
-      text: Disclosure Timeline
-      link: /disclosure-timeline
+      text: Real Sources
+      link: /sources/
 
 features:
   - title: Sightings
@@ -27,6 +27,10 @@ features:
     details: Recovered scrap, impossible alloys, and propulsion theories that make physicists politely leave the room.
     link: /crash-sites/
     linkText: Review recovered tech
+  - title: Sources
+    details: Real press clippings and science reporting — summarized accurately, labeled clearly, linked out. Not fictional dossiers.
+    link: /sources/
+    linkText: Open the Sources desk
   - title: Disclosure Timeline
     details: A tongue-in-cheek chronology of almost-admissions, foggy pressers, and documents with more black bars than ink.
     link: /disclosure-timeline

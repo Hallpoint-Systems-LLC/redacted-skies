@@ -128,3 +128,18 @@ p.classification {
   color: var(--rs-stamp);
   margin-top: 0;
 }
+
+/* Badge for real external press / science sources (vs fictional dossiers) */
+.source-badge {
+  display: inline-block;
+  font-family: var(--rs-mono);
+  font-size: 0.72rem;
+  font-weight: 600;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--vp-c-brand-1);
+  border: 1px solid var(--vp-c-brand-2);
+  background: var(--vp-c-brand-soft);
+  padding: 0.25rem 0.65rem;
+  margin: 0 0 1.25rem;
+}

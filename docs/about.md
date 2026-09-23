@@ -15,11 +15,13 @@
 
 ## What this is
 
-A VitePress-powered archive of sample dossiers, crash-site daydreams, and a disclosure timeline you can read on the couch. Built to deploy as static HTML — no API, no login, no tracking of your clearance level.
+A VitePress-powered archive of sample dossiers, crash-site daydreams, a disclosure timeline, and a **Sources** desk for real external articles. Built to deploy as static HTML — no API, no login, no tracking of your clearance level.
+
+Fictional files and real press live in separate folders. Sources pages summarize published reporting and link out; they do not republish full articles.
 
 ## What this isn’t
 
-- Not investigative journalism  
+- Not investigative journalism (Sources summarizes others’ reporting)  
 - Not a dump of real classified material  
 - Not a place that targets private individuals  
 - Not mean-spirited
