@@ -46,6 +46,7 @@ export default defineConfig({
       { text: 'Getting Started', link: '/getting-started' },
       { text: 'Sightings', link: '/sightings/' },
       { text: 'Crash Files', link: '/crash-sites/' },
+      { text: 'Sources', link: '/sources/' },
       { text: 'Timeline', link: '/disclosure-timeline' },
       { text: 'About', link: '/about' }
     ],
@@ -73,6 +74,17 @@ export default defineConfig({
           { text: 'Crash Sites Overview', link: '/crash-sites/' },
           { text: 'Alloy Anomalies', link: '/crash-sites/alloy-anomalies' },
           { text: 'Propulsion Speculation', link: '/crash-sites/propulsion' }
+        ]
+      },
+      {
+        text: 'Sources',
+        items: [
+          { text: 'Sources Index', link: '/sources/' },
+          {
+            text: 'Beta Pictoris b Radio Signals',
+            link: '/sources/beta-pictoris-b-radio-signals'
+          },
+          { text: 'How to Add a Source', link: '/sources/CONTRIBUTING' }
         ]
       },
       {

@@ -45,8 +45,12 @@ That folder is what Azure Static Web Apps (and any static host) should serve. It
 │   │   ├── config.ts          # Theme, nav, sidebar, dark dossier vibe
 │   │   └── theme/             # Custom CSS (redaction bars, mono timestamps)
 │   ├── public/                # Favicon, logo, OG placeholder, SWA config
-│   ├── sightings/             # Sample case files
+│   ├── sightings/             # Sample (fictional) case files
 │   ├── crash-sites/           # Recovered-tech speculation
+│   ├── sources/               # Real press clippings — summarize + link out
+│   │   ├── index.md
+│   │   ├── CONTRIBUTING.md    # How to add the next article
+│   │   └── *.md               # One page per external article
 │   ├── index.md               # Home hero + feature cards
 │   ├── getting-started.md
 │   ├── disclosure-timeline.md
@@ -81,11 +85,20 @@ Triggers: push to `main` only (no pull-request preview deploys).
 
 - **Home** — hero (“The skies aren't empty”), pitch, feature cards
 - **Getting Started** — how to read the files
-- **Sightings** — sample cases (Roswell mythos, Nimitz folklore, Midwest mosaic)
-- **Crash Sites** — alloy anomalies & propulsion speculation
+- **Sightings** — sample cases (Roswell mythos, Nimitz folklore, Midwest mosaic) — fiction
+- **Crash Sites** — alloy anomalies & propulsion speculation — fiction
+- **Sources** — real external articles (press/science); summarize + link out; see `docs/sources/CONTRIBUTING.md`
 - **Disclosure Timeline** — cultural chronology with redaction flair
 - **About** — brand and ground rules
 
+### Adding a real article
+
+1. Add `docs/sources/<slug>.md` with frontmatter (`title`, `date`, `outlet`, `author`, `externalUrl`, `tags`).
+2. Summarize accurately; link to the original; do **not** paste full article text.
+3. List it on `docs/sources/index.md` and under the **Sources** sidebar group in `docs/.vitepress/config.ts`.
+
+Details: [`docs/sources/CONTRIBUTING.md`](docs/sources/CONTRIBUTING.md).
+
 ## License
 
-MIT — see project license if added; content is entertainment/fiction.
+MIT — see project license if added. Fictional dossier content is entertainment; Sources pages summarize third-party journalism and link out.

@@ -14,8 +14,11 @@ This site is entertainment with a dossier aesthetic. We remix public lore, specu
 | --- | --- |
 | [Sightings](/sightings/) | Sample case files with timestamps, locations, and “witness” notes |
 | [Crash Sites](/crash-sites/) | Playful recovered-tech writeups and alloy anomalies |
+| [Sources](/sources/) | **Real** press clippings & science articles — summarize + link out |
 | [Disclosure Timeline](/disclosure-timeline) | A chronological trail of almost-reveals |
 | [About](/about) | Who we are and how to take the joke |
+
+**Sources vs archives:** Sightings and Crash Sites are entertainment dossiers. The [Sources desk](/sources/) is a separate lane for published journalism — clearly labeled, never mixed in as invented case files.
 
 ## How to read the files
 
@@ -50,4 +53,5 @@ Pick a rabbit hole:
 
 - [Sightings archive](/sightings/) — start with Roswell flavor, Nimitz radar ghosts, or a Midwest night watch.
 - [Crash sites](/crash-sites/) — alloys that shouldn’t exist and engines that refuse to explain themselves.
+- [Sources](/sources/) — real press, starting with Beta Pictoris b radio signals.
 - [Disclosure timeline](/disclosure-timeline) — black bars through the decades.
