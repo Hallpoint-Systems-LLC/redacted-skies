@@ -67,6 +67,7 @@ Full article by Iain Todd. This page is a summary only — do not treat it as a 
 
 ## Related on Redacted Skies
 
+- [CNN — first radio emission from an exoplanet](/sources/cnn-radio-emission-beta-pictoris-b) — same discovery, later wire coverage (arXiv; not yet peer-reviewed)
 - [Sources index](/sources/) — all real press clippings
 - [Sightings archive](/sightings/) — fictional case files (separate lane)
 - [Disclosure Timeline](/disclosure-timeline) — cultural chronology (entertainment)
