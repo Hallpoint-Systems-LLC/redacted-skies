@@ -81,6 +81,10 @@ export default defineConfig({
         items: [
           { text: 'Sources Index', link: '/sources/' },
           {
+            text: 'CNN — Beta Pictoris b Radio Emission',
+            link: '/sources/cnn-radio-emission-beta-pictoris-b'
+          },
+          {
             text: 'Beta Pictoris b Radio Signals',
             link: '/sources/beta-pictoris-b-radio-signals'
           },
