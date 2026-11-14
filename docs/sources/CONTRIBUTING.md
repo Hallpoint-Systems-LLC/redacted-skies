@@ -37,8 +37,9 @@ tags:
 
 ## 3. Index + nav
 
-1. Add a row to the table in [`index.md`](./index.md).
-2. Add the page under the **Sources** group in `docs/.vitepress/config.ts` (sidebar; nav already points at `/sources/`).
+1. Add a row to the matching topic table in [`index.md`](./index.md) (light groups such as **Science** or **Sightings** — keep grouping simple; add a heading only when a new category is clearly useful).
+2. Tag the page frontmatter so related clippings stay findable (e.g. `exoplanet`, `sighting`, `uap`, place names).
+3. Add the page under the **Sources** group in `docs/.vitepress/config.ts` (sidebar; nav already points at `/sources/`).
 
 ## 4. Separation rule
 

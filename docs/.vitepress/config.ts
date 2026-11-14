@@ -81,6 +81,10 @@ export default defineConfig({
         items: [
           { text: 'Sources Index', link: '/sources/' },
           {
+            text: 'FOX 8 — Alaska Tentacled UFO',
+            link: '/sources/fox8-alaska-tentacled-ufo'
+          },
+          {
             text: 'CNN — Beta Pictoris b Radio Emission',
             link: '/sources/cnn-radio-emission-beta-pictoris-b'
           },
