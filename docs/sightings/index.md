@@ -6,6 +6,8 @@
 
 The Redacted Skies sightings desk collects **sample case files** — fictionalized composites inspired by decades of public UFO lore. Each file is labeled for entertainment. Coordinates are approximate theater. Witnesses are composite characters.
 
+Looking for real reporting instead? See also: [Sources — real press clippings](/sources/) (including [FOX 8’s Alaska tentacled-UFO coverage](/sources/fox8-alaska-tentacled-ufo)).
+
 ## Open cases
 
 | Case ID | Codename | Era | Status |

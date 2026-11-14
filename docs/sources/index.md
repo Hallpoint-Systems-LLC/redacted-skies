@@ -14,10 +14,20 @@ Fictional archives live under [Sightings](/sightings/) and [Crash Sites](/crash-
 
 ## Open clippings
 
+Clippings are grouped lightly by topic so the desk stays scannable as more articles arrive.
+
+### Science
+
 | Date | Outlet | Title | Takeaway |
 | --- | --- | --- | --- |
 | 2026-10-02 | CNN | [First radio emission from an exoplanet](/sources/cnn-radio-emission-beta-pictoris-b) | Direct auroral radio from Beta Pictoris b — magnetic field, not E.T.; preprint awaiting peer review |
 | 2026-09-22 | BBC Sky at Night Magazine | [Beta Pictoris b radio signals](/sources/beta-pictoris-b-radio-signals) | First confirmed radio detection from a single exoplanet — auroral/magnetic, not E.T. |
+
+### Sightings
+
+| Date | Outlet | Title | Takeaway |
+| --- | --- | --- | --- |
+| 2026-11-13 | FOX 8 Cleveland (WJW) | [Tentacled UFO over Alaska](/sources/fox8-alaska-tentacled-ufo) | Genuine-looking footage near Elmendorf-Richardson; experts: officially unidentified, most likely a high-altitude balloon |
 
 ## How this desk works
 
@@ -26,7 +36,7 @@ Fictional archives live under [Sightings](/sightings/) and [Crash Sites](/crash-
 <strong>DESK:</strong> <code>SOURCES // REDACTED SKIES</code><br>
 <strong>PROTOCOL:</strong> <code>SUMMARIZE + LINK OUT // NO FULL-TEXT REPUBLISH</code><br>
 <strong>SEPARATION:</strong> <code>REAL PRESS ≠ FICTIONAL DOSSIERS</code><br>
-<strong>LAST INDEX REFRESH:</strong> <code>2026-10-02T12:00:00Z</code>
+<strong>LAST INDEX REFRESH:</strong> <code>2026-11-13T13:22:00Z</code>
 
 </div>
 
@@ -34,5 +44,6 @@ Fictional archives live under [Sightings](/sightings/) and [Crash Sites](/crash-
 2. Frontmatter: title, date, outlet, author, externalUrl, tags.
 3. Accurate summary of what researchers/journalists concluded — no alien overclaims.
 4. Prominent outbound link to the original; never paste the full article.
+5. Index rows sit under a light topic group (e.g. Science, Sightings) when it helps scanning.
 
 Adding another clipping? See [CONTRIBUTING](/sources/CONTRIBUTING).
